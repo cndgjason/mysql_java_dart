@@ -1,0 +1,31 @@
+1.data type:
+tinyint           byte           int
+smallint          short
+int               int
+bigint            long
+
+decimal           BigDecimal     decimal
+
+tinyint unsigned  boolean        bool
+
+char              String         String
+vchar
+text
+
+datetime          Date           DateTime
+
+                  ArrayList      List
+
+                  HashMap        Map
+
+
+2.function:
+datatype name                | datatype name, []List  ,{}Map
+return or not return         | return null default
+-> (interface one function)  | =>(return)
+
+
+3.class:
+class          | class (extends)
+abstract class | abstract class (extends)
+interface      | class (implements)
