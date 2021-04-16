@@ -4,7 +4,7 @@ smallint          short
 int               int
 bigint            long
 
-decimal           BigDecimal     decimal
+decimal           BigDecimal     Decimal
 
 tinyint unsigned  boolean        bool
 
