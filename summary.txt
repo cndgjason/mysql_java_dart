@@ -18,12 +18,11 @@ datetime          Date           DateTime
 
                   HashMap        Map
 
-
 2.function:
-datatype name                | datatype name, []List  ,{}Map
-return or not return         | return null default
--> (interface one function)  | =>(return)
-
+insert into [table] values    |datatype name                | datatype name, []List  ,{}Map
+delete from [table] where     |return or not return         | return null default
+update [table] set            |-> (interface one function)  | =>(return)
+select * from [table]
 
 3.class:
 class          | class (extends)
