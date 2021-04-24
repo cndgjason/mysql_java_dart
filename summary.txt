@@ -9,7 +9,7 @@ decimal           BigDecimal     Decimal
 tinyint unsigned  boolean        bool
 
 char              String         String
-vchar
+varchar
 text
 
 datetime          Date           DateTime
@@ -20,7 +20,7 @@ datetime          Date           DateTime
 
 2.operation/function:
 insert into [table] values    |datatype name                | datatype name, []List  ,{}Map
-delete from [table] where     |return or not return         | return null default
+delete from [table]           |return or not return         | return null default
 update [table] set            |-> (interface one function)  | =>(return)
 select * from [table]
 
