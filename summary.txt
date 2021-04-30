@@ -27,4 +27,4 @@ select * from [table]
 3.class:
 class          | class (extends)
 abstract class | abstract class (extends)
-interface      | class (implements)
+interface      | abstract class (implements)
